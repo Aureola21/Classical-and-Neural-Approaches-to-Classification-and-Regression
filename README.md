@@ -1,4 +1,4 @@
-# Assignment 2 – Support Vector Machines, Neural Networks, PCA, and Regression
+#  Support Vector Machines, Neural Networks, PCA, and Regression
 
 ## 📄 Summary
 
